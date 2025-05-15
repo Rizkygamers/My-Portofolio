@@ -1,2 +1,2 @@
-hello I'am
-beginner webdev 
+hello I'am Rizky
+I'am beginner web dev 
