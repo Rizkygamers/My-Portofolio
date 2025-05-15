@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (i < text.length) {
       typingElement.innerHTML += text.charAt(i);
       i++;
-      setTimeout(typeWriter, 35); // atur kecepatan ketikan
+      setTimeout(typeWriter, 20); // atur kecepatan ketikan
     }
   }
 
