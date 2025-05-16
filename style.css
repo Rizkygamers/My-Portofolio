@@ -57,3 +57,21 @@ section { padding: 4rem 0; }
   .nav-links.open { transform: translateX(0); }
   .nav-toggle { display: block; }
 }
+
+.socials {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.social-icon {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.2s;
+}
+
+.social-icon:hover {
+  transform: scale(1.1);
+}
