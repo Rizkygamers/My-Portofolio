@@ -1,0 +1,33 @@
+.kontak-box {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.kontak-box h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.kontak-box p {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.wa-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #25D366;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.wa-button:hover {
+  background-color: #1ebe5d;
+}
