@@ -1,2 +1,4 @@
-hello I'am Rizky
-I'am beginner web dev 
+hai gw Rizky
+gw web dev pemula
+gw vibe coder
+gw member imphen
